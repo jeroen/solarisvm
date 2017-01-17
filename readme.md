@@ -3,7 +3,7 @@
 This is a customized version of the publicly available [Solaris 10](http://www.oracle.com/technetwork/server-storage/solaris10/downloads/index.html) for testing R packages. It includes preinstalled [ORD 3.2.0](https://oss.oracle.com/ORD/), [Solaris Studio 12.3](http://www.oracle.com/technetwork/server-storage/developerstudio/downloads/solaris-studio-12-3-2333052.html) and [OpenCSW r_base 3.3.0](https://www.opencsw.org/package/r_base/).
 
 ```
-VMware Image: https://drive.google.com/open?id=0B9GbYGrVAoVbRVJjTVZWcUxNS1k
+VMware Image: https://drive.google.com/open?id=0B9GbYGrVAoVbT25SRFpNeC1mWTQ
 Username: root
 Password: solaris
 ```
