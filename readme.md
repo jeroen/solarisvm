@@ -52,7 +52,7 @@ Both installations use separate directories to store their R package libraries s
 
 CSW is an open source package manager and repository that is also used by CRAN. It is preinstalled on this system. Use pkgutil to install a library:
 
-    /opt/csw/bin/pkgutil -y -i libcurl_dev
+    /opt/csw/bin/pkgutil -y -i libcurl_dev libssl_dev
 
 It is unclear to me where the compilers look for headers. CRAN is setting a bunch of environment variables but it often seems to work out of the box. 
 
