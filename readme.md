@@ -58,6 +58,12 @@ It is unclear to me where the compilers look for headers. CRAN is setting a bunc
 
 A list of available CSW software: http://www.opencsw.org/get-it/packages/
 
+### Building R-devel on Solaris
+
+The versions of R on this image are quite dated (3.2 and 3.3). The Solaris/OpenCSW community is pretty stale by now, so if you need a more recent version of R to debug your problem, you need to build R from source.
+
+Joe Cheng has documented the steps for building R-devel on the solarisvm in [this gist](https://gist.github.com/jcheng5/ca6c6b693b743a01d458a2872b039ab6).
+
 ### Reduce VM size
 
 For some reason vmware keeps around all deleted files ever which results in ever increasing size of the VM image. To wipe old data you need to run in solaris:
