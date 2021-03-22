@@ -1,3 +1,15 @@
+## Superseded!
+
+This project is mostly superseded by the Solaris VM provided by R-hub:
+
+ - The R-hub Solaris vmware/virtualbox images: https://files.r-hub.io/solaris/
+ - Using the VM: https://github.com/r-hub/solarischeck/tree/master/packer#using-the-vm
+ - How to create a Solaris VM yourself: https://docs.r-hub.io/technical/solaris/
+
+This is the same VM as used by the R-hub [online check service](https://builder.r-hub.io/advanced).
+
+---
+
 # Solaris VMWare
 
 This is a customized version of the publicly available [Solaris 10](http://www.oracle.com/technetwork/server-storage/solaris10/downloads/index.html) for testing R packages. It includes preinstalled [ORD 3.2.0](https://oss.oracle.com/ORD/), [Solaris Studio 12.3](http://www.oracle.com/technetwork/server-storage/developerstudio/downloads/solaris-studio-12-3-2333052.html) and [OpenCSW r_base 3.3.0](https://www.opencsw.org/package/r_base/).
